@@ -1,6 +1,6 @@
 {
-    "version":1.0,
+    "version":"1.0",
     "versionCode":1,
-    "zipUrl":https://github.com/hzy132/RM8_fan_unrestrict/releases/download/v1.0/RM8_fan_unrestrict.zip,
-    "changelog":https://github.com/hzy132/RM8_fan_unrestrict/releases
+    "zipUrl":"https://github.com/hzy132/RM8_fan_unrestrict/releases/download/v1.0/RM8_fan_unrestrict.zip",
+    "changelog":"https://github.com/hzy132/RM8_fan_unrestrict/releases"
 }
